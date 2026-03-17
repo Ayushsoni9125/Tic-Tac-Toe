@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+🎮 Tic Tac Toe (XO Warzone)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern and interactive Tic Tac Toe game built using React.js with a clean UI and smooth gameplay.
 
-## Available Scripts
+🌐 Live Demo:
+👉 https://xo-warzoneee.netlify.app
 
-In the project directory, you can run:
+🚀 Features
 
-### `npm start`
+✅ Two-player game (X vs O)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+✅ Dynamic turn switching
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+✅ Winner detection logic
 
-### `npm test`
+✅ Draw detection
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✅ Restart game functionality
 
-### `npm run build`
+✅ Responsive and modern UI
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+🛠️ Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+⚛️ React.js (Functional Components + Hooks)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🎨 CSS (Custom styling with modern UI)
 
-### `npm run eject`
+🌐 Netlify (Deployment)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+📸 Preview
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+(Add screenshot here later for better portfolio impact)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+⚙️ Installation & Setup
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Clone the repository:
 
-## Learn More
+git clone https://github.com/Ayushsoni9125/Tic-Tac-Toe.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Navigate to project folder:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+cd Tic-Tac-Toe
 
-### Code Splitting
+Install dependencies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+npm install
 
-### Analyzing the Bundle Size
+Run the app:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+npm start
+📦 Build for Production
+npm run build
+💡 Future Improvements
 
-### Making a Progressive Web App
+🟩 Highlight winning cells
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+📊 Add scoreboard
 
-### Advanced Configuration
+🤖 AI opponent (single-player mode)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+🎉 Winning animations
 
-### Deployment
+🔊 Sound effects
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+🤝 Contributing
 
-### `npm run build` fails to minify
+Feel free to fork this repo and improve the project. Contributions are always welcome!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📄 License
+
+This project is open-source and available under the MIT License.
+
+👨‍💻 Author
+
+Ayush Soni
+
+GitHub: https://github.com/Ayushsoni9125
